@@ -13,6 +13,7 @@ Todas as empresas de Sergipe são bem vindas!
   * [Avansys](https://goo.gl/dcMW6p)
   * [Comets](https://goo.gl/JZwW7d)
   * [FreeDom](https://goo.gl/zCkJRP)
+  * [Get_Info](https://goo.gl/NAuHBt)
   * [Interative](https://goo.gl/D8ybUf)
   * [IPTI](https://goo.gl/iVRkZq)
   * [Lumentech](https://goo.gl/L1RFRL)
