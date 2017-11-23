@@ -30,4 +30,4 @@ Todas as empresas de Sergipe são bem vindas!
 
 ### Como incluir uma empresa
 
-Ainda estamos trabalhando para fazer a inclusão das empresas. Mas se quiser entrar em contato com a comunidade, madar e-mail para organizacao@phpse.net
+Siga as instruções contidas em [CONTRIBUTING](CONTRIBUTING.md)
